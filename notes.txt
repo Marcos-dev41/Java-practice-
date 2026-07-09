@@ -1,0 +1,7 @@
+ORM-object relation mapping
+it handles mapping of object to your database query into tbales and rows/columns
+Java peristence api -are standrds that are implemented by orm tools like : hibernate eclipse link etc
+
+jpa ins conatined in spring data jpa 
+
+--in this code we use H2 database
